@@ -1,0 +1,23 @@
+h1{
+    background-color: blue;
+border: 2px solid black;
+border-radius: 4px;
+
+}
+ul{
+    display: flex;
+    padding: 4px;
+    background-color: seashell;
+}
+li{
+    list-style: none;
+    margin: 4px;
+    
+    
+}
+li a{
+    color: red;
+    
+    text-decoration: none;
+
+}
